@@ -1,6 +1,6 @@
 {
   "name": "get-callsite-dirname",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get dirname of the callsite's module",
   "main": "index.js",
   "scripts": {
